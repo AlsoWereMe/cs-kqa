@@ -6,7 +6,7 @@ This repository is a knowledge base for question and answer (Q&A). The agent's a
 
 ## Repository Structure
 
-The knowledge documents must form a two-level tree. Directory and file names are in Chinese:
+The knowledge documents must form a two-level tree:
 
 - Level 1: domains, e.g. 计算机网络 (Computer Networks), 软件工程 (Software Engineering), 人工智能 (Artificial Intelligence), Git, Linux.
 - Level 2: subdomains of each domain, each stored as one Markdown file. For example, under 计算机网络, `协议.md` and `传输.md` are separate Markdown files; under 软件工程, `软件过程.md` and `软件设计.md` are separate Markdown files.
