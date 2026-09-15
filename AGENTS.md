@@ -28,7 +28,7 @@ Here is the template of repo tree.
 ## Answer Rules
 
 1. When working in this repository, answer in Chinese.
-2. For every term from the fields of computer science, software engineering, or artificial intelligence, mark the corresponding English term at its first occurrence, e.g. 协议（Protocol）.
+2. For every term from the fields of computer science, software engineering, or artificial intelligence, mark the corresponding English term at its first occurrence in main body of text(not include title), e.g. 协议（Protocol）.
 3. Be concise and precise: answer only the question, and do not include information that the question does not ask about.
 
 ## Writing Knowledge into Documents
